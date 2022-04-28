@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/多主机升级开debug/远程发送socket命令.py" dialect="GenericSQL" />
+  </component>
+</project>

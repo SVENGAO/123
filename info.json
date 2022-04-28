@@ -1,0 +1,5 @@
+{"arg": {"device": "Android-android_dev","seq": "2","device_id": "CCU_197743","access_key": "1B7BBEC692D07FBC475C8D95CD4A190D","token": "","version": "1.0.7","username": "13952137957"},
+"nodeid": "*",
+"opcode": "LOGIN_ACCESSKEY",
+"reqId": "8d861c61-a93a-4a81-9894-29be7edabae5",
+"requester": "HJ_Server"}
